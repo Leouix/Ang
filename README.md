@@ -5,7 +5,7 @@
 Скачать репозиторий Download script: https://github.com/Leouix/Ang
 
 Добавить на страницу скрипт:
-<script src="your-url/lib/mainAn.js"></script>
+./lib/mainAn.js
 
 Если нужно добавить CSS стили, подключить файл стилей /lib/customAn.css. 
 

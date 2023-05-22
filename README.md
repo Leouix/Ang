@@ -5,9 +5,7 @@
 Добавить на страницу скрипт:
 <script src="your-url/lib/mainAn.js"></script>
 
-Если нужно добавить CSS стили, подключить файл стилей:
+Если нужно добавить CSS стили, подключить файл стилей /lib/customAn.css. 
 
-<link type="text/css"
-      rel="stylesheet"
-      href="your-url/lib/customAn.css">
+Пример можно увидеть в файле index.html
 

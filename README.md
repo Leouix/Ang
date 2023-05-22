@@ -2,12 +2,11 @@
 
 <strong>js, axios, bootstrap. html </strong>
 
-Скачать репозиторий Download script: https://github.com/Leouix/Ang
+<p>Скачать репозиторий Download script: https://github.com/Leouix/Ang</p>
 
-Добавить на страницу скрипт:
-./lib/mainAn.js
+<p>Добавить на страницу скрипт: <span>./lib/mainAn.js</span></p>
 
-Если нужно добавить CSS стили, подключить файл стилей /lib/customAn.css. 
+<p>Если нужно добавить CSS стили, подключить файл стилей: /lib/customAn.css. </p>
 
-Пример можно увидеть в файле index.html
+<p>Пример можно увидеть в файле index.html</p>
 

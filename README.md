@@ -6,5 +6,8 @@
 <script src="your-url/lib/mainAn.js"></script>
 
 Если нужно добавить CSS стили, подключить файл стилей:
-<code><link type="text/css" rel="stylesheet" href="your-url/lib/customAn.css"></code>
+
+<link type="text/css"
+      rel="stylesheet"
+      href="your-url/lib/customAn.css">
 

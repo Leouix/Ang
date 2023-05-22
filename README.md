@@ -1,5 +1,7 @@
 # An
 
+<strong>js, axios, bootstrap. html </strong>
+
 Скачать репозиторий Download script: https://github.com/Leouix/Ang
 
 Добавить на страницу скрипт:
